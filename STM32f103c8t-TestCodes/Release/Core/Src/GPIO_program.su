@@ -1,0 +1,4 @@
+GPIO_program.c:20:6:GPIO_voidSetPinMode	16	static
+GPIO_program.c:56:4:GPIO_u8GetPinValue	0	static
+GPIO_program.c:76:6:GPIO_voidSetPinValue	0	static
+GPIO_program.c:105:6:GPIO_SetPinArrayValue	24	static

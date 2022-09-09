@@ -1,0 +1,8 @@
+DMA_program.c:13:6:DMA_SetMemoryAddr	16	static
+DMA_program.c:17:6:DMA_SetPeripheralAddr	16	static
+DMA_program.c:21:6:DMA_ConfigTotalNumberData	16	static
+DMA_program.c:24:6:DMA_ConfigMemorySize	16	static
+DMA_program.c:27:6:DMA_ConfigPriority	16	static
+DMA_program.c:31:6:DMA_ConfigDataTransDirection	16	static
+DMA_program.c:52:6:DMA_Enablechannel	16	static
+DMA_program.c:55:6:DMA_Disablechannel	16	static

@@ -1,0 +1,4 @@
+RCC_program.c:16:6:RCC_voidInit	0	static
+RCC_program.c:49:6:RCC_voidPeripheralClockEnable	0	static
+RCC_program.c:59:6:RCC_voidPeripheralClockDisable	0	static
+RCC_program.c:70:5:RCC_u32GetSYSCLK	0	static

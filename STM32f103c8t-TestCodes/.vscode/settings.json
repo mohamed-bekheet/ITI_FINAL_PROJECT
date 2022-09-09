@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "files.associations": {
+        "spi_interfce.h": "c",
+        "bit_math.h": "c",
+        "rcc_interface.h": "c",
+        "spi_private.h": "c",
+        "dma_private.h": "c",
+        "rcc_private.h": "c",
+        "gpio_private.h": "c",
+        "usart_interface.h": "c",
+        "usart_private.h": "c",
+        "dma_interface.h": "c",
+        "usart_config.h": "c"
+    }
+}

@@ -1,0 +1,4 @@
+EXTI_program.c:21:6:EXTI_voidSelectTrig	16	static
+EXTI_program.c:41:6:EXTI_voidSW_interrupt	16	static
+EXTI_program.c:50:6:EXTI_voidControlLine	16	static
+EXTI_program.c:66:6:EXTI_voidClearFlag	16	static

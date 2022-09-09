@@ -1,0 +1,4 @@
+NVIC_program.c:20:6:NVIC_voidInit	4	static
+NVIC_program.c:54:6:NVIC_voidSetPriority	16	static
+NVIC_program.c:66:6:NVIC_voidEnableInterrupt	16	static
+NVIC_program.c:82:7:NVIC_voidDisableInterrupt	16	static
